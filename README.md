@@ -1,2 +1,14 @@
 # shiny-server
-Shiny를 이용한 데이터 분석 웹서버 구축
+
+# Skills
+- R
+- Shiny
+- Shinyapps
+
+<br>
+
+---
+
+<br>
+
+#### Open Source License는 [이곳](NOTICE.md)에서 확인해주시고, 문의사항은 [Issue](https://github.com/IllIIIllll/shiny-server/issues) 페이지에 남겨주세요.
