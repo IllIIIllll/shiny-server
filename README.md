@@ -1,10 +1,12 @@
 # shiny-server
 ![shiny_server](images/data_analyst.gif)
 
-# How to use
-1. Home 화면에서 분석할 데이터를 선택합니다.  
-   (데이터는 전처리가 되어있는 txt, csv, xlsx만 가능합니다.)
-2. 상단 탭에서 원하는 항목을 선택하여 분석 결과를 확인합니다.
+# ~How to use~
+1. ~Home 화면에서 분석할 데이터를 선택합니다.  
+   (데이터는 전처리가 되어있는 txt, csv, xlsx만 가능합니다.)~
+2. ~상단 탭에서 원하는 항목을 선택하여 분석 결과를 확인합니다.~  
+  
+현재는 운영하지 않습니다.
 
 # Skills
 - R
